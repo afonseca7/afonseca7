@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+# 
+# 
+# 
+- Estudio ingeniería en sistemas en la UTN
+- Estoy aprendiendo python
+  
 <!--
 **afonseca7/afonseca7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
